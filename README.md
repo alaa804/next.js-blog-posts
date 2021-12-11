@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+blog post static pages with next js and markdown
+
+![Capture d’écran 2021-12-11 103513](https://user-images.githubusercontent.com/73104268/145673584-39a5ea06-abe7-411c-bc41-144bf0abf04f.png)
 
 ## Getting Started
 
